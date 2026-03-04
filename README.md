@@ -36,9 +36,7 @@ The prototype will be running at `http://localhost:3000`
 
 Branching logic is handled in `app/routes.js`.
 
-Users are routed based on their destination selection:
-- **Moon** → personal details → summary page with Moon-specific journey information
-- **Mars** → personal details → summary page with Mars-specific journey information
+Users are routed based on their destination selection.
 
 To test branching, select a destionation, check answers and click "Accept and Send" button. It will take you to a destination-specific confirmation page.
 
