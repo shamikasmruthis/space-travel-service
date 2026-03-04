@@ -4,7 +4,8 @@ A GOV.UK prototype built using the [GOV.UK Prototype Kit](https://prototype-kit.
 
 ## Live Demo
 
-[View on Render]https://space-travel-service-7ukt.onrender.com
+[View on Render] https://space-travel-service-7ukt.onrender.com 
+Note: Please request password to view prototype.
 
 ## About the Service
 
