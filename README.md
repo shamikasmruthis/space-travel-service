@@ -39,7 +39,7 @@ Branching logic is handled in `app/routes.js`.
 
 Users are routed based on their destination selection.
 
-To test branching, select a destionation, check answers and click "Accept and Send" button. It will take you to a destination-specific confirmation page.
+To test branching, select a destination, check answers and click "Accept and Send" button. It will take you to a destination-specific confirmation page.
 
 ## Built With
 
