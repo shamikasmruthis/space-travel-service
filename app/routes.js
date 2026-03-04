@@ -9,7 +9,7 @@ const router = govukPrototypeKit.requests.setupRouter()
 // Add your routes here
 router.post('/check-dest', function (req, res) {
 
-  // Make a variable and give it the value from 'how-many-balls'
+
   var Destination = req.session.data['whereDoYouLive']
 
   // Check whether the variable matches a condition
