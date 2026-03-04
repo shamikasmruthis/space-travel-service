@@ -1,5 +1,6 @@
 {
   "serviceName": "Space Travel Service",
+  "homePage": "/start",
   "useServiceNavigation": true,
   "plugins": {
     "govuk-frontend": {
